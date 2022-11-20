@@ -12,12 +12,10 @@
 3. Ограничение по температуре нагрева. В систему жидкого пола не допускается температура теплоносителя более 55С.
 
 Железо:
-Котел 3 фазы, 12кВт. 
-WT32-SC01 - https://aliexpress.ru/item/1005003523570461.html?sku_id=12000026165861812&spm=a2g2w.productlist.list.3.7ba03135cyMd7C
-Трехфазовое твердотельное реле 80А: https://aliexpress.ru/item/4000101934909.html?sku_id=10000014186566048&spm=a2g2w.productlist.list.13.4883804cyWgdIu
-Реле 30А: https://aliexpress.ru/item/4001151473633.html?sku_id=10000014905621447&spm=a2g2w.productlist.list.2.5a7d6d6dSTPDo0
-Датчики температур: https://aliexpress.ru/item/32467815969.html?sku_id=66654224723&spm=a2g2w.productlist.list.1.7bc4335aX57rct
-PZEM 004T 3 шт. : https://aliexpress.ru/item/4000330631886.html?sku_id=10000001354084576&spm=a2g2w.productlist.list.0.3c1c2cbcUIwVfI
-У PZEM меняем адреса, для возможности использования на одном UART порту. Инструкция https://www.youtube.com/watch?v=ZbLrY648QoM
-Датчик давления: в поисках на АЛИ.
-
+1. Котел 3 фазы, 12кВт. 
+2. WT32-SC01 - https://aliexpress.ru/item/1005003523570461.html?sku_id=12000026165861812&spm=a2g2w.productlist.list.3.7ba03135cyMd7C
+3. Трехфазовое твердотельное реле 80А: https://aliexpress.ru/item/4000101934909.html?sku_id=10000014186566048&spm=a2g2w.productlist.list.13.4883804cyWgdIu
+4. Реле 30А: https://aliexpress.ru/item/4001151473633.html?sku_id=10000014905621447&spm=a2g2w.productlist.list.2.5a7d6d6dSTPDo0
+5. Датчики температур: https://aliexpress.ru/item/32467815969.html?sku_id=66654224723&spm=a2g2w.productlist.list.1.7bc4335aX57rct
+6. PZEM 004T 3 шт. : https://aliexpress.ru/item/4000330631886.html?sku_id=10000001354084576&spm=a2g2w.productlist.list.0.3c1c2cbcUIwVfI У PZEM меняем адреса, для возможности использования на одном UART порту. Инструкция https://www.youtube.com/watch?v=ZbLrY648QoM
+7. Датчик давления: в поисках на АЛИ.
